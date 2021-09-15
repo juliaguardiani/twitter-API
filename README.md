@@ -1,4 +1,11 @@
-# twitter-API
+## twitter-API
+
+
+Júlia Neves Guardiani
+
+
+IMD1155 - ANÁLISE DE REDES
+
 
 Como o Twitter é uma rede social com múltiplas funcionalidades, a proposta deste trabalho é utilizar duas das principais: o retweet e as menções por tweet. Assim, darei sequência às comparações iniciadas em trabalho anterior entre as empresas C&A, Renner e Riachuelo.
 
